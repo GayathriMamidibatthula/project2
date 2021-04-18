@@ -1,0 +1,22 @@
+[
+    { "id": 1001,
+        "name": "Kit-Kat", 
+        "rate": 15, 
+        "count": 20
+     },
+      
+      { "id": 1002, 
+        "name": "Basmati Rice", 
+        "rate": 50, 
+        "count": 50 },
+      { "id": 1003, 
+        "name": "Sunflower Oil", 
+        "rate": 25, 
+        "count": 100 }
+]
+ 
+ 
+    
+
+  
+  
